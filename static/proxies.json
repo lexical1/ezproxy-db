@@ -3536,12 +3536,16 @@
     "url": "http://ezproxy.scottsdalecc.edu:2048/login?url=$@"
   },
   {
-    "name": "Seattle",
+    "name": "Seattle University",
     "url": "http://proxy.seattleu.edu/login?url=$@"
   },
   {
     "name": "Seattle Pacific University",
     "url": "http://ezproxy.spu.edu/login?url=$@"
+  },
+  {
+    "name": "Seattle Public Library",
+    "url": "https://ezproxy.spl.org/login?url=$@"
   },
   {
     "name": "Seneca",
